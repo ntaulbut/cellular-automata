@@ -1,6 +1,5 @@
 # Spectacular Cellular Automata
 
-- Team 15's group project on cellular automata.
 - An [npm](https://www.npmjs.com/) package using the [Svelte](https://svelte.dev/) web framework with [Vite](https://vite.dev/) to bundle source and asset files.
 - Uses [gl-matrix](https://www.npmjs.com/package/gl-matrix) for linear algebra.
 - Refer to the [style guide](docs/STYLE.md) for programming style guidelines.
