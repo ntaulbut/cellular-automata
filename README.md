@@ -2,8 +2,6 @@
 
 - An [npm](https://www.npmjs.com/) package using the [Svelte](https://svelte.dev/) web framework with [Vite](https://vite.dev/) to bundle source and asset files.
 - Uses [gl-matrix](https://www.npmjs.com/package/gl-matrix) for linear algebra.
-- Refer to the [style guide](docs/STYLE.md) for programming style guidelines.
-- See also the [branching policy](docs/BRANCHING.md).
 - Licensed under the [Mozilla Public License 2.0](LICENCE.txt)
 
 ## Setup
